@@ -1,8 +1,8 @@
 <?php 
 
-	$x = "Halo Nasry";
+	$x = "MID";
 	echo $x;
-	$y = "Halo Bro";
+	$y = "Muh Nasry AShar";
 	echo $y;
 
  ?>
